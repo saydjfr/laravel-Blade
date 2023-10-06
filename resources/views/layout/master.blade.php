@@ -2,7 +2,7 @@
 @include('layout.navbar');
 @include('layout.sidebar');
 @include('layout.konten');
-@include('layout.footer')
+@include('layout.footer');
 
 
 

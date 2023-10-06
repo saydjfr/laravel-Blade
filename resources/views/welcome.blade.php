@@ -9,7 +9,7 @@
     <title>home</title>
 </head>
 <body>
-    <h1 style="align-content: center">selamat datang dipanel admin</h1>
+<h1 style="align-content: center">selamat datang di tempat nonton</h1>
 </body>
 </html>
 @endsection
